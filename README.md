@@ -45,7 +45,7 @@ function smtp_mailer($to,$subject, $msg){
 
 1. Clone the repository to your local machine.
 ```bash
-git clone https://github.com/vaishnavid0604/agriculture-portal.git
+git clone [https://github.com/Pranav160702/SMART-AGRICULTURE-WEB-APPLICATION.git]
 ```
 2. Goto Farmers folder and Install the required packages using pip.
 ```
