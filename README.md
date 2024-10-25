@@ -4,7 +4,7 @@ The Agriculture Portal is a machine learning-powered platform developed to suppo
 
 - Crop and Fertilizer Recommendations: Predicts optimal crops and suggests fertilizers tailored to specific conditions, helping farmers maximize yield.
 - Disease Detection: Identifies potential crop diseases early, assisting in proactive management and treatment.
- Rainfall and Yield Forecasting: Provides rainfall and yield predictions to aid in planning and resource allocation.
+- Rainfall and Yield Forecasting: Provides rainfall and yield predictions to aid in planning and resource allocation.
 - Direct Crop Sales: Facilitates direct crop sales to customers through a secure payment gateway powered by Stripe API.
 - Additional Resources:
   - A chatbot powered by OpenAI’s GPT-3.5-turbo model for on-demand assistance.
