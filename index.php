@@ -402,7 +402,7 @@
 
 <script>
 
-const apiKey = "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";   // Enter your apikey here
+const apiKey = "enter-your-api-key";   // Enter your apikey here
 const chatbox = document.getElementById("quote");
 const authorN = document.getElementById("author");
 
