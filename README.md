@@ -10,7 +10,7 @@ The Agriculture Portal is a machine learning-powered platform developed to suppo
   - A chatbot powered by OpenAI’s GPT-3.5-turbo model for on-demand assistance.
   - A 4-day weather forecast powered by a Weather API to help with daily planning.
   - Real-time agriculture news provided via the News API.
-This comprehensive portal empowers farmers to make well-informed decisions, optimize crop health, and expand market access.
+- This comprehensive portal empowers farmers to make well-informed decisions, optimize crop health, and expand market access.
 
 ## Pre Requisites
 ### Get Below API Keys
